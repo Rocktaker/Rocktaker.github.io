@@ -104,3 +104,7 @@ p {
 .sticky + .content {
   padding-top: 80px;
 }
+.comment {
+  color: red;
+  font-size: 15px;
+}
